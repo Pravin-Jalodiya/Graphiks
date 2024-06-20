@@ -1,12 +1,12 @@
 <div align="center">
-  
-  <img src="./readme-images/project-logo.png" />
+  <img width="300" height="300" src="https://github.com/Pravin-Jalodiya/Graphiks/assets/34760247/9e672419-44f2-47c0-9dee-a34d254f4379">
+
 
   <h2 align="center">Graphic Design Agency landing page</h2>
 
  Graphic Design Agency is a fully responsive digital agency landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://pravin-jalodiya.github.io/Graphiks/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
